@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SortetList Stack Queue/1.0.0": {
+        "runtime": {
+          "SortetList Stack Queue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortetList Stack Queue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

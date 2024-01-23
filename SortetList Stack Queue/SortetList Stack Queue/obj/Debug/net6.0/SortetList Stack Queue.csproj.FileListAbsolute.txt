@@ -1,0 +1,14 @@
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\bin\Debug\net6.0\SortetList Stack Queue.exe
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\bin\Debug\net6.0\SortetList Stack Queue.deps.json
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\bin\Debug\net6.0\SortetList Stack Queue.runtimeconfig.json
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\bin\Debug\net6.0\SortetList Stack Queue.dll
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\bin\Debug\net6.0\SortetList Stack Queue.pdb
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\obj\Debug\net6.0\SortetList Stack Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\obj\Debug\net6.0\SortetList Stack Queue.AssemblyInfoInputs.cache
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\obj\Debug\net6.0\SortetList Stack Queue.AssemblyInfo.cs
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\obj\Debug\net6.0\SortetList Stack Queue.csproj.CoreCompileInputs.cache
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\obj\Debug\net6.0\SortetList Stack Queue.dll
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\obj\Debug\net6.0\refint\SortetList Stack Queue.dll
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\obj\Debug\net6.0\SortetList Stack Queue.pdb
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\obj\Debug\net6.0\SortetList Stack Queue.genruntimeconfig.cache
+C:\Users\Wolf Tim\source\repos\SortetList Stack Queue\SortetList Stack Queue\obj\Debug\net6.0\ref\SortetList Stack Queue.dll
